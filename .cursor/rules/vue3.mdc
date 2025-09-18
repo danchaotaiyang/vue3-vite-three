@@ -1,0 +1,22 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Vue3 rule content
+
+- You can @ files here
+- You can use markdown but dont have to
+- Use 4 spaces for code indentation
+- Use ES6+ syntax for modern JavaScript features
+- Use Vite for fast development and building
+- Follow Vue 3 style guide and naming conventions
+- Use <script setup> syntax in Single File Components
+- Use Suspense for async components
+- Implement proper props and emits definitions
+- Utilize Vue 3's Teleport component when needed
+- Utilize provide/inject for dependency injection
+- Use Pinia for state management
+- Use mitt for event emitting
+- Use SCSS for CSS preprocessing
