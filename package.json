@@ -9,30 +9,30 @@
         "preview": "vite preview"
     },
     "dependencies": {
-        "@element-plus/icons-vue": "^2.3.1",
-        "axios": "^1.9.0",
+        "@element-plus/icons-vue": "^2.3.2",
+        "axios": "^1.12.2",
         "cannon-es": "^0.20.0",
         "d3": "^7.9.0",
-        "dayjs": "^1.11.13",
-        "disable-devtool": "^0.3.8",
-        "echarts": "^5.6.0",
-        "element-plus": "^2.9.10",
+        "dayjs": "^1.11.18",
+        "disable-devtool": "^0.3.9",
+        "echarts": "^6.0.0",
+        "element-plus": "^2.11.3",
         "gsap": "^3.13.0",
-        "monaco-editor": "^0.52.2",
-        "pinia": "^3.0.2",
-        "three": "^0.176.0",
-        "vue": "^3.5.13",
+        "monaco-editor": "^0.53.0",
+        "pinia": "^3.0.3",
+        "three": "^0.180.0",
+        "vue": "^3.5.22",
         "vue-router": "^4.5.1",
         "yuka": "^0.7.8"
     },
     "devDependencies": {
         "@types/d3": "^7.4.3",
-        "@types/three": "^0.176.0",
-        "@vitejs/plugin-legacy": "^6.1.1",
-        "@vitejs/plugin-vue": "^5.2.4",
-        "sass": "^1.88.0",
+        "@types/three": "^0.180.0",
+        "@vitejs/plugin-legacy": "^7.2.1",
+        "@vitejs/plugin-vue": "^6.0.1",
+        "sass": "^1.93.2",
         "single-spa-vue": "^3.0.1",
-        "terser": "^5.39.1",
-        "vite": "^6.3.5"
+        "terser": "^5.44.0",
+        "vite": "^7.1.7"
     }
 }
