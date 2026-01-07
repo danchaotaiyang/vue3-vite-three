@@ -42,7 +42,7 @@ export default defineConfig(({ mode }) => {
         */
         server: {
             host: '0.0.0.0',
-            port: 12138
+            port: 8888
         }
     };
 });

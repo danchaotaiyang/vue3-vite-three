@@ -1,15 +1,15 @@
 import * as THREE from 'three';
-import { RGBELoader } from 'three/examples/jsm/loaders/RGBELoader.js';
+import { HDRLoader } from 'three/examples/jsm/loaders/HDRLoader.js';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import { base } from '@/config.js';
 
 
 const path = `${ base }/static/example/study163/1212491801/`;
 
-const __loader__rgb__e__ = new RGBELoader();
-__loader__rgb__e__.setPath(`${ path }/texture/`);
+const __loader__hdr__e__ = new HDRLoader();
+__loader__hdr__e__.setPath(`${ path }/texture/`);
 
-export const rgbELoader = __loader__rgb__e__;
+export const hdrLoader = __loader__hdr__e__;
 
 const __loader__gltf__ = new GLTFLoader();
 __loader__gltf__.setPath(`${ path }/models/`);
